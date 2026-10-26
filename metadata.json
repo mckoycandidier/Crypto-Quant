@@ -1,0 +1,6 @@
+{
+  "name": "CryptoQuant",
+  "description": "Cryptocurrency Technical Analyst, Quantitative Risk Manager, and Visual Chart Trading Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
